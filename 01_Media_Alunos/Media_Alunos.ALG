@@ -1,8 +1,7 @@
 Algoritmo "Media Alunos"
 // Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// Aluno   : Anderson Daniel P. Coutinho
+// Descrição   : Cálcula a média de quatro notas
 // Data atual  : 02/03/2023
 Var
 aluno: caracter
